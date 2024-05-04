@@ -1,4 +1,4 @@
-output "ip" {
-  value       = aws_instance.Julia.public_ip
+# output "ip" {
+#   value       = aws_instance.Julia.public_ip
   
-}
+# }
