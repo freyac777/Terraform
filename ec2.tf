@@ -1,6 +1,6 @@
-resource "aws_instance" "Julia" {
-  ami           = var.ami
-  instance_type = var.instance_type
-  key_name = var.key_name
+# resource "aws_instance" "Julia" {
+#   ami           = var.ami
+#   instance_type = var.instance_type
+#   key_name = var.key_name
 
-}
+# }
