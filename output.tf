@@ -1,4 +1,4 @@
 output "ip" {
-  value       = aws_instance.julia.public_ip
+  value       = aws_instance.Julia.public_ip
   
 }
